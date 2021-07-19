@@ -1,6 +1,4 @@
-<img src="topbanner.gif">
-
-A bit about Myself, I am <b>Abhishek Morla</b> pursuing a <b>Computer Science Degree</b>.
+# Hi, I am abhishekmorla 👋
 
 <h1 align="center">Tech-Stack</h1>
 
@@ -23,7 +21,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Simple Dictionary Application](https://github.com/abhishekmorla/dictionary_app) https://simpledictionaryapp.netlify.app/
+| [Simple Dictionary Application] | (https://github.com/abhishekmorla/dictionary_app) Link - https://simpledictionaryapp.netlify.app/
 | [Personal Portfolio]| This is my personal personal-portfolio website. Have a look [http://abhishekmorla.pythonanywhere.com/](http://abhishekmorla.pythonanywhere.com/) |
 
 <hr>
@@ -42,7 +40,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=abhishekmorla&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmorla&layout=compact">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=abhishekmorla&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmorla&layout=compact">
 </div> 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmorla&)"><img src="https://activity-graph.herokuapp.com/graph?username=abhishekmorla&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
