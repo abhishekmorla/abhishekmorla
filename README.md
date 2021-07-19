@@ -2,7 +2,7 @@
 
 <h1 align="center">Tech-Stack</h1>
 
-I am learning webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that have basic knowledge of C++.
+I'm learning Penetration Testing and webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that have basic knowledge of C++.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
