@@ -1,4 +1,4 @@
-# Hi, I'm abhishekmorla 👋
+<h1 align="center">Hi, I'm abhishekmorla 👋</h1>
 
 <h1 align="center">Tech-Stack</h1>
 
@@ -32,8 +32,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <a  href="https://www.youtube.com/c/Abhishek7" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a  href="https://www.linkedin.com/in/abhishekmorla/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/abhishekmorla" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:abhishekmorla87@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/abhishek.1337/" target="_blank">
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+<a href="mailto:abhishekmorla87@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.instagram.com/_abhii.0/" target="_blank">
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 
 </div>
