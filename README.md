@@ -23,8 +23,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Simple Dictionary Application] | (https://github.com/abhishekmorla/dictionary_app) Link - https://simpledictionaryapp.netlify.app/
-| [Personal Portfolio]| This is my personal personal-portfolio website. Have a look [http://abhishekmorla.pythonanywhere.com/](http://abhishekmorla.pythonanywhere.com/) |
+| [Simple Dictionary Application](https://github.com/abhishekmorla/dictionary_app) |  Link - https://simpledictionaryapp.netlify.app/ | 
+| [Personal Portfolio](http://abhishekmorla.pythonanywhere.com/) | This is my personal personal-portfolio website. |
 
 <hr>
 <h1 align="center">Let's Get Connected</h1>
