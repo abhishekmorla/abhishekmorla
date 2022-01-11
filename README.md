@@ -25,6 +25,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | :---:        |    :----   |  
 | [Simple Dictionary Application](https://github.com/abhishekmorla/dictionary_app) |  Link - https://simpledictionaryapp.netlify.app/ | 
 | [Personal Portfolio](http://abhishekmorla.pythonanywhere.com/) | This is my personal personal-portfolio website. |
+| [TODO APP WITH NOTIFICATION ](https://github.com/abhishekmorla/todo-notification) | This is made using bash script & notify app |
 
 <hr>
 <h1 align="center">Let's Get Connected</h1>
