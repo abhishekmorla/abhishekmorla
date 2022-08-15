@@ -23,8 +23,9 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
+| [Newsletter](https://github.com/abhishekmorla/BugbountyPoc-Newsletter) |  Link - https://bugbountypocnewsletter.herokuapp.com/ | 
 | [Simple Dictionary Application](https://github.com/abhishekmorla/dictionary_app) |  Link - https://simpledictionaryapp.netlify.app/ | 
-| [The Dark Room](https://thedarkroom.netlify.app/) | Open discussion dark chat room. |
+| [The Dark Room](https://thedarkroom.netlify.app/) | Open discussion dark chat room(https://thedarkroom.netlify.app/) |
 | [Personal Portfolio](http://abhishekmorla.pythonanywhere.com/) | This is my personal-portfolio website. |
 | [TODO APP WITH NOTIFICATION ](https://github.com/abhishekmorla/todo-notification) | This is made using bash script & notify app |
 
