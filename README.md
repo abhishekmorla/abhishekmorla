@@ -23,6 +23,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
+| [Smart India Hackathon 2022 Finalist - Project ](https://github.com/codejackers) | We as a team worked together to solve given problem statement.An automated system for the Stakeholder clearly highlight fake universities from time to time and on query based |
 | [Newsletter](https://github.com/abhishekmorla/BugbountyPoc-Newsletter) |  Link - https://bugbountypocnewsletter.herokuapp.com/ | 
 | [Simple Dictionary Application](https://github.com/abhishekmorla/dictionary_app) |  Link - https://simpledictionaryapp.netlify.app/ | 
 | [The Dark Room](https://github.com/abhishekmorla/thedarkroom) | Open discussion dark chat room(https://thedarkroom.netlify.app/) |
