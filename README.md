@@ -2,16 +2,21 @@
 
 <h1 align="center">Tech-Stack</h1>
 
-I'm learning Penetration Testing and webdevelopment and having knowledge of HTML,CSS & Javascript. Beside that have basic knowledge of C++.
+I'm learning Penetration Testing and webdevelopment and having knowledge of HTML,CSS,Node.js,Security & Databases. Beside that have basic knowledge of OOP.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-   <img alt="Ethical Hacking" src="https://camo.githubusercontent.com/00fa50cd02a905a862820a25ee993193103ff3bb19d3dc5c1c5364415a6114de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4574686963616c204861636b696e672d53452d626c7565" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+     <img alt="Node Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img alt="Express Js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+   <img alt="Ethical Hacking" src="https://camo.githubusercontent.com/00fa50cd02a905a862820a25ee993193103ff3bb19d3dc5c1c5364415a6114de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4574686963616c204861636b696e672d53452d626c7565" />
  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
+   
 </p>
 
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
